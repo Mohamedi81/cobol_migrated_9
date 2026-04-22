@@ -1,0 +1,1 @@
+<the full domain-model.md content from the architect message>
